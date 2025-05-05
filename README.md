@@ -4,6 +4,7 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://thejasshetty.vercel.app/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Thejas_shetty17)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Thejasbshetty/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejasbshetty@gmail.com)
@@ -27,7 +28,7 @@
 <img src="./icons/CPP.svg" width="48"> 
 <img src="./icons/Java-Light.svg" width="48"> 
 <img src="./icons/Python-Light.svg" width="48"> 
-<img src="./icons/GoLang.svg" width="48"> 
+<!-- <img src="./icons/GoLang.svg" width="48">  -->
 <img src="./icons/JavaScript.svg" width="48"> 
 <img src="./icons/TypeScript.svg" width="48"> 
 
@@ -42,7 +43,7 @@
 <img src="./icons/NodeJS-Light.svg" width="48"> 
 <img src="./icons/ExpressJS-Light.svg" width="48"> 
 <img src="./icons/MongoDB.svg" width="48"> 
-<img src="./icons/Redis-Light.svg" width="48"> 
+<!-- <img src="./icons/Redis-Light.svg" width="48">  -->
 <!-- <img src="./icons/RabbitMQ-Light.svg" width="48"> 
 <img src="./icons/Nginx.svg" width="48"> 
 <img src="./icons/Redux.svg" width="48">  -->
