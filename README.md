@@ -11,8 +11,8 @@
 <!--[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sur)-->
 
 
-## I am a Software Developer and a Computer Science Engineering student with a strong passion for building innovative digital solutions. I focus on solving real-world problems through technology and continuously improve my problem-solving skills by practicing data structures and algorithms on platforms like LeetCode. I am always eager to explore and learn about emerging technologies to enhance my expertise.
-
+## Software Developer | CSE Student
+Passionate about creating innovative digital solutions and exploring emerging technologies.
 
 <!--[![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin1729s&show_icons=true&theme=dracula&count_private=true)](https://github.com/nithin1729s/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithin1729s&layout=compact&theme=dracula)
